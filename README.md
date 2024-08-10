@@ -9,4 +9,4 @@
 - ```git clone https://github.com/blazystick/iplookup.git```
 - ```cd iplookup```
 - ```python iplookup.py```
-
+thumb.png
