@@ -11,5 +11,8 @@
 - ```python iplookup.py```
 # NOTE
 - Termux, Windows, Kali Linux, EndavuorOS
+# What is this?
+- it's a ip lookup program
+  # Photo: 
 # 
 ![Thumb.png](https://github.com/blazystick/iplookup/blob/main/thumb.png)
